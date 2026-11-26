@@ -6,7 +6,7 @@ An ASCII animation window for Claude Code on Windows. It opens when you send a p
 ✻ Optimizing under duress... (4s)
 ```
 
-This is an unofficial project. It is not affiliated with or endorsed by Anthropic.
+This is an unofficial, non-commercial joke project. It is not affiliated with or endorsed by Anthropic, or by anyone involved in *Whiplash*. See [Animation credit](#animation-credit).
 
 **Heads up:** the default quotes include profanity. Edit `quotes.txt` to change them.
 
@@ -93,6 +93,12 @@ python -m unittest -v
 
 The tests use temporary folders and open no windows. They don't touch your Claude settings.
 
+## Animation credit
+
+The animation embedded in `ascii_gif.py` is an ASCII conversion of a short clip from *Whiplash* (2014), written and directed by Damien Chazelle. I don't own the film or the clip. All rights belong to their respective owners.
+
+If you hold rights to this material and want it removed, please open an issue and I will take it down.
+
 ## License
 
-The code is released under the [MIT License](LICENSE). The animation data embedded in `ascii_gif.py` is converted from a GIF, and the license grants no rights to that original artwork.
+The code is released under the [MIT License](LICENSE). The license does **not** cover the animation data in `ascii_gif.py` or the film material it comes from, and grants no permission to use them.

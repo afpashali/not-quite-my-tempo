@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.active
+*.ascii-tmp
+settings*.json
+.claude/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
